@@ -1964,6 +1964,44 @@
 			)
 		)
 	)
+	(sheet
+		(at 68.58 119.38)
+		(size 17.78 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2d8518ea-ac05-464e-9010-c9ccc05237ce")
+		(property "Sheetname" "Power Supply"
+			(at 68.58 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER_SUPPLY.kicad_sch"
+			(at 68.58 133.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "10W Audio Amp"
+				(path "/653d3084-b02d-49ee-93f3-cd4dc9745562"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
